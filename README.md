@@ -2,7 +2,7 @@
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jojiapps&show_icons=true&theme=midnight-purple&locale=kr" alt="Anurag's GitHub stats"/>
 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojiapps&theme=midnight-purple&layout=compact&locale=kr" alt="Top Langs"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojiapps&theme=midnight-purple&layout=compact&locale=kr" alt="Top Langs"/>
 
 ## 🕰 How to spent my time
 <!--START_SECTION:waka-->
