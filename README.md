@@ -27,6 +27,8 @@
 ### 🤝 Contact & Channel
 
 - 📧 **Email**: jojiapp@gmail.com
+- 📚 **Blog**: https://note.jojiapps.com
+- 👨‍💻 **Github**: https://github.com/jojiapps
 
 ## 🕰 How to spent my time
 <!--START_SECTION:waka-->
