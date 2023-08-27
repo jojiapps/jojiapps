@@ -15,6 +15,7 @@
 - 안녕하세요. 3년차 백엔드 개발자 조지헌 입니다.
 - `객체지향적인 설계`와 `클린 코드`에 관심이 많으며, `테스트 자동화`를 통해 견고한 애플리케이션을 만들기 위해 노력중입니다.
 - 항상 `why`를 던지고, 이게 최선인지 고민합니다.
+- 필요하다면 기술과 상관없이 만들어 보려 노력하는 편입니다.
 - 배운 내용은 정리 하는 습관을 들이는 중입니다.
 - 지식을 공유하고 토론하는 것을 즐기며 이를 위해 다양한 스터디 활동을 하고 있습니다.
 
@@ -27,7 +28,7 @@
 ### 🤝 Contact & Channel
 
 - 📧 **Email**: jojiapp@gmail.com
-- 📚 **Blog**: https://note.jojiapps.com
+- 📚 **Blog**: https://jojiapps.com
 - 👨‍💻 **Github**: https://github.com/jojiapps
 
 ## 🕰 How to spent my time
