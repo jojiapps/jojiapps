@@ -33,7 +33,7 @@
 
 ## 🕰 How to spent my time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2021%20mins-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -81,5 +81,5 @@ Mac                      3 hrs 16 mins       ███████████�
 ```
 
 
- Last Updated on 31/08/2023 19:06:03 UTC
+ Last Updated on 01/09/2023 19:06:34 UTC
 <!--END_SECTION:waka-->
