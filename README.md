@@ -28,7 +28,7 @@
 ### 🤝 Contact & Channel
 
 - 📧 **Email**: jojiapp@gmail.com
-- 📚 **Blog**: https://www.jojiapps.com
+- 📚 **Blog**: https://publish.obsidian.md/jojiapps
 - 👨‍💻 **Github**: https://github.com/jojiapps
 
 ## 🕰 How to spent my time
